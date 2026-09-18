@@ -8,11 +8,11 @@ EduConsultPro Institute offers a variety of courses and programs, and receives a
 
 Key Features
 
-* Admission Application Management** — captures student applications (personal details, academic history, qualifications) directly into Salesforce, with automated confirmation emails on submission.
-* Consulting Services Management** — lets students request consulting services; requests are logged, routed to consultants, and tracked through to appointment scheduling and completion.
-* Case Management** — handles student support queries and immigration case requests using Salesforce Service Cloud, with status tracking (open, in progress, closed).
-* Approval Process Automation** — consulting and case requests are automatically routed for review, with email alerts sent to students on approval or rejection.
-* Reports and Dashboards** — tracks application volume, acceptance rates, and enrollment trends to help admissions staff make data-driven decisions.
+**Admission Application Management** — captures student applications (personal details, academic history, qualifications) directly into Salesforce, with automated confirmation emails on submission.
+**Consulting Services Management** — lets students request consulting services; requests are logged, routed to consultants, and tracked through to appointment scheduling and completion.
+**Case Management** — handles student support queries and immigration case requests using Salesforce Service Cloud, with status tracking (open, in progress, closed).
+**Approval Process Automation** — consulting and case requests are automatically routed for review, with email alerts sent to students on approval or rejection.
+**Reports and Dashboards** — tracks application volume, acceptance rates, and enrollment trends to help admissions staff make data-driven decisions.
 
 My Contribution
 
